@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "test": "jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
