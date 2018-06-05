@@ -21,10 +21,5 @@ module.exports = {
         axios.get('https://swapi.co/api/people/1')
         .then(cb)
     }
-
 }
 
-// function callBackForCode(res) {
-//     return res.data.name
-// }
-// getLuke(callBackForCode)
